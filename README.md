@@ -27,6 +27,6 @@ https://data.london.gov.uk/dataset/8165333f-a44c-4cb5-991c-ce1b3ae0c33d
 
 #### submit info
 
-deadline: pls finish it within 1hours, and send it back to interviewer with 2 days.
+deadline: pls finish it within 1hours, and send it back to interviewer with 1 days.
 
 you can send to interviewer's WhatsApp or email: wdeng@riches.ai 
