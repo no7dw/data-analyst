@@ -3,7 +3,7 @@
 
 ### assignment 
  
- * pls analyse  the report of  <Road Casualties by Severity data for London and Great Britain>*
+ *pls analyse  the report of Road Casualties by Severity data for London and Great Britain*
 
 try to dig into the data, draw out some charts  and give your conclusion/insight. 
 
