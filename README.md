@@ -25,5 +25,8 @@ https://github.com/no7dw/data-analyst/blob/master/road-casualties-severity-borou
 data can also be download from 
 https://data.london.gov.uk/dataset/8165333f-a44c-4cb5-991c-ce1b3ae0c33d
 
-#### deadline
-pls finish it within 1hours, and send it back to interviewer with 2 days.
+#### submit info
+
+deadline: pls finish it within 1hours, and send it back to interviewer with 2 days.
+
+you can send to interviewer's WhatsApp or email: wdeng@riches.ai 
