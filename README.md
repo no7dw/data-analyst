@@ -5,7 +5,7 @@
  
  *pls analyse  the report of Road Casualties by Severity data for London and Great Britain*
 
-try to dig into the data, draw out some charts  and give your conclusion/insight. 
+**try to dig into the data, draw out some charts  and give your conclusion/insight.  -- important**
 
 Tips: 
 - use tools  whatever you familiar with , BI/Excel/Python etc
